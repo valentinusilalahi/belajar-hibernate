@@ -1,0 +1,14 @@
+logs
+
+# Eclipse Setting
+/.metadata
+/Servers
+.settings
+.project
+.classpath
+.buildpath
+bin
+
+
+# Maven
+target
